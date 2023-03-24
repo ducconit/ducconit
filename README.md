@@ -1,5 +1,21 @@
-# @ducconit 👋
+# Howdy! 👋
 
+Hi there! My name is DNT and I'm thrilled to introduce myself on Github.
+
+I'm a lover of all things tech and enjoy exploring the latest advancements in the industry. I'm a programming enthusiast and enjoy tinkering with various languages and frameworks. Additionally, I enjoy creating tools that help reduce development time and increase efficiency.
+
+I'm excited to be a part of the Github community and can't wait to see what kind of exciting projects and collaborations lie ahead. Let's create something amazing together!
 <p align="center">
-  <a href="https://github.com/ducconit"><img src="https://img.shields.io/github/followers/ducconit.svg?label=GitHub&style=social" alt="ducconit"/></a>
+  <a href="https://github.com/ducconit"><img src="https://github-readme-stats.vercel.app/api?username=ducconit&show_icons=true&theme=transparent" alt="ducconit"/></a>
+  <a href="https://github.com/ducconit"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=10&layout=compact" alt="ducconit"/></a>
 </p>
+
+### Utilities
+
+<a href="https://github.com/ducconit/font-awesome-pro"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ducconit&repo=font-awesome-pro" alt="ducconit"/></a>
+<a href="https://github.com/ducconit/json"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ducconit&repo=json" alt="ducconit"/></a>
+<a href="https://github.com/ducconit/ethereum"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ducconit&repo=ethereum" alt="ducconit"/></a>
+<a href="https://github.com/ducconit/laravel-encrypter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ducconit&repo=laravel-encrypter" alt="ducconit"/></a>
+<a href="https://github.com/ducconit/localization"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ducconit&repo=localization" alt="ducconit"/></a>
+
+*Last updated: 24/03/2023*
