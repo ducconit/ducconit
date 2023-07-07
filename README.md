@@ -10,6 +10,9 @@ I'm excited to be a part of the Github community and can't wait to see what kind
   <a href="https://github.com/ducconit"><img src="https://github-readme-stats-1c1g4bybq-ducconit.vercel.app/api/top-langs/?username=ducconit&langs_count=10&layout=compact" alt="ducconit"/></a>
 </p>
 
+### Projects
+<a href="https://github.com/ducconit/homestead"><img src="https://github-readme-stats-1c1g4bybq-ducconit.vercel.app/api/pin/?username=ducconit&repo=homestead" alt="ducconit"/></a>
+
 ### Laravel package
 <a href="https://github.com/ducconit/laravel-setting"><img src="https://github-readme-stats-1c1g4bybq-ducconit.vercel.app/api/pin/?username=ducconit&repo=laravel-setting" alt="ducconit"/></a>
 <a href="https://github.com/ducconit/json"><img src="https://github-readme-stats-1c1g4bybq-ducconit.vercel.app/api/pin/?username=ducconit&repo=json" alt="ducconit"/></a>
