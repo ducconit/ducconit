@@ -11,7 +11,7 @@ I'm excited to be a part of the Github community and can't wait to see what kind
 </p>
 
 ### Projects
-<a href="https://github.com/ducconit/devbox"><img src="https://github-readme-stats-1c1g4bybq-ducconit.vercel.app/api/pin/?username=ducconit&repo=devweb" alt="ducconit"/></a>
+<a href="https://github.com/ducconit/devweb"><img src="https://github-readme-stats-1c1g4bybq-ducconit.vercel.app/api/pin/?username=ducconit&repo=devweb" alt="ducconit"/></a>
 
 ### Laravel package
 <a href="https://github.com/ducconit/laravel-setting"><img src="https://github-readme-stats-1c1g4bybq-ducconit.vercel.app/api/pin/?username=ducconit&repo=laravel-setting" alt="ducconit"/></a>
