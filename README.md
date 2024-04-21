@@ -21,6 +21,7 @@ I'm excited to be a part of the Github community and can't wait to see what kind
 
 ### Utilities
 
+<a href="https://github.com/ducconit/php-enum"><img src="https://github-readme-stats-1c1g4bybq-ducconit.vercel.app/api/pin/?username=ducconit&repo=php-enum" alt="ducconit"/></a>
 <a href="https://github.com/ducconit/font-awesome-pro"><img src="https://github-readme-stats-1c1g4bybq-ducconit.vercel.app/api/pin/?username=ducconit&repo=font-awesome-pro" alt="ducconit"/></a>
 <a href="https://github.com/ducconit/ethereum"><img src="https://github-readme-stats-1c1g4bybq-ducconit.vercel.app/api/pin/?username=ducconit&repo=ethereum" alt="ducconit"/></a>
 
