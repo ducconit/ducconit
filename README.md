@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&vCenter=true&multiline=true&width=435&lines=Welcome+to+DNT++github+profile)](https://git.io/typing-svg)
+
 # Howdy! 👋
 
 Hi there! My name is DNT and I'm thrilled to introduce myself on Github.
