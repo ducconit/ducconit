@@ -12,6 +12,16 @@ I'm excited to be a part of the Github community and can't wait to see what kind
   <a href="https://github.com/ducconit"><img src="https://github-readme-stats-1c1g4bybq-ducconit.vercel.app/api/top-langs/?username=ducconit&langs_count=10&layout=compact" alt="ducconit"/></a>
 </p>
 
+### Github Contribution
+
+<div align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ducconit/ducconit/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ducconit/ducconit/output/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ducconit/ducconit/output/github-contribution-grid-snake.svg">
+</picture>
+</div>
+
 ### Projects
 <a href="https://github.com/TekVN/vagrant-workspace"><img src="https://github-readme-stats-1c1g4bybq-ducconit.vercel.app/api/pin/?username=TekVN&repo=vagrant-workspace" alt="ducconit"/></a>
 
