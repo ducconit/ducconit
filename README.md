@@ -22,21 +22,8 @@ I'm excited to be a part of the Github community and can't wait to see what kind
 </picture>
 </div>
 
-### Projects
-<a href="https://github.com/TekVN/vagrant-workspace"><img src="https://github-readme-stats-1c1g4bybq-ducconit.vercel.app/api/pin/?username=TekVN&repo=vagrant-workspace" alt="ducconit"/></a>
 
-### Laravel package
-<a href="https://github.com/ducconit/laravel-setting"><img src="https://github-readme-stats-1c1g4bybq-ducconit.vercel.app/api/pin/?username=ducconit&repo=laravel-setting" alt="ducconit"/></a>
-<a href="https://github.com/ducconit/json"><img src="https://github-readme-stats-1c1g4bybq-ducconit.vercel.app/api/pin/?username=ducconit&repo=json" alt="ducconit"/></a>
-<a href="https://github.com/ducconit/laravel-encrypter"><img src="https://github-readme-stats-1c1g4bybq-ducconit.vercel.app/api/pin/?username=ducconit&repo=laravel-encrypter" alt="ducconit"/></a>
-<a href="https://github.com/ducconit/localization"><img src="https://github-readme-stats-1c1g4bybq-ducconit.vercel.app/api/pin/?username=ducconit&repo=localization" alt="ducconit"/></a>
-
-### Utilities
-
-<a href="https://github.com/ducconit/php-enum"><img src="https://github-readme-stats-1c1g4bybq-ducconit.vercel.app/api/pin/?username=ducconit&repo=php-enum" alt="ducconit"/></a>
-<a href="https://github.com/ducconit/font-awesome-pro"><img src="https://github-readme-stats-1c1g4bybq-ducconit.vercel.app/api/pin/?username=ducconit&repo=font-awesome-pro" alt="ducconit"/></a>
-<a href="https://github.com/ducconit/ethereum"><img src="https://github-readme-stats-1c1g4bybq-ducconit.vercel.app/api/pin/?username=ducconit&repo=ethereum" alt="ducconit"/></a>
-
+<img src="https://github.com/ducconit/ducconit/blob/master/assets/qr/mono.jpg?raw=true" width="150" alt="Donate QR Code" />
 <a href="https://www.buymeacoffee.com/ducconit" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee"></a>
 
-*Last updated: 05/11/2023*
+*Last updated: 27/02/2026*
